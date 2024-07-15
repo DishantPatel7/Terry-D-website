@@ -15,7 +15,7 @@ const Footer = () => {
         <div className="mx-auto mt-[30px] flex h-[60px] w-[599px] items-center justify-between rounded-[40px] bg-white px-1">
           <input
             type="email"
-            className="ml-[30px] text-[18px]"
+            className="ml-[30px] text-[18px] outline-none"
             placeholder="Enter your email here..."
           />
           <button className="h-[52px] w-[156px] rounded-[81px] bg-black text-white">
